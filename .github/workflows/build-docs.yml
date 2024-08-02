@@ -33,31 +33,31 @@
             path: |
               artifacts/${{ env.ARTIFACT }}
             retention-days: 7
-  test:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: docs
-          path: artifacts
-
-      - name: Test documentation
-        uses: JetBrains/writerside-checker-action@v1
-        with:
-          instance: ${{ env.INSTANCE }}
-    deploy:
-      environment:
-        name: github-pages
-        url: ${{ steps.deployment.outputs.page_url }}
-      needs: [build, test]
+    test:
+      needs: build
       runs-on: ubuntu-latest
       steps:
         - name: Download artifacts
           uses: actions/download-artifact@v4
           with:
             name: docs
+            path: artifacts
+  
+        - name: Test documentation
+          uses: JetBrains/writerside-checker-action@v1
+          with:
+            instance: ${{ env.INSTANCE }}
+      deploy:
+        environment:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }}
+        needs: [build, test]
+        runs-on: ubuntu-latest
+        steps:
+          - name: Download artifacts
+            uses: actions/download-artifact@v4
+            with:
+              name: docs
 
         - name: Unzip artifact
           run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
