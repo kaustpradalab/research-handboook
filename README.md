@@ -1,4 +1,6 @@
-# PRADA Lab Research Handboook
+# PRADA Lab Research Handbook
+link: <https://kaustpradalab.github.io/research-handboook/>
+
 👋🏼 This repository serves as a handbook for students in the [PRADA lab](https://pradalab1.github.io/) at [KAUST](https://www.kaust.edu.sa/en/) and includes:
 * Tools and applications to aid your research progress, such as paper reading, figure drawing, and experiment organization.
 * Guidelines on how to read a paper.
