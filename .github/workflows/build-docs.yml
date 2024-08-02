@@ -7,7 +7,7 @@
 
   env:
     INSTANCE: 'Writerside/taatayr'
-    ARTIFACT: 'webHelpTAATAYR2-all.zip.zip'
+    ARTIFACT: 'webHelpTAATAYR2-all.zip'
     DOCKER_VERSION: '241.18775'
 
   jobs:
