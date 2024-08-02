@@ -4,8 +4,8 @@
 
 <instance-profile id="taatayr"
                  name="Tools and applications to aid your research"
-                 start-page="starter-topic.md">
+                 start-page="starter.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="starter.md"/>
     <toc-element topic="Tools-and-Applications-to-aid-your-research.md"/>
 </instance-profile>

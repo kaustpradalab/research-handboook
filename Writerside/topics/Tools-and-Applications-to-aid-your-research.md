@@ -12,7 +12,7 @@ Install here:
 * For the Browser Extension--Zotero Connectors allow you to save to Zotero
   directly from your web browser: <https://www.zotero.org/download/connectors>
 
-After install Zotero and Connectors, it is strongly recommended to **Sync your Library** First:
+After install Zotero and Connectors, it is strongly recommended to **Sync your Library** first:
 * You can follow this guide line to setup: <https://www.zotero.org/support/preferences/sync>
 * For chinese user, Nutstore is a good choice: <https://help.jianguoyun.com/?p=4190>
 

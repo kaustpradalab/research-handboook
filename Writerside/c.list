@@ -2,5 +2,5 @@
 <!DOCTYPE categories
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
 <categories>
-    <category id="wrs" name="Writerside documentation" order="1"/>
+    <category id="intro" name="More about PRADA LAB" order="1"/>
 </categories>
