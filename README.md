@@ -10,3 +10,12 @@ link: <https://kaustpradalab.github.io/research-handboook/>
 * Strategies for collaborating with your co-authors.
 * Guidance for your MS/PhD journey.
 * ...
+
+## Looking forward to your contribution
+If you have:
+* Any questions for research we don't mentioned here
+* Any good advise for junior researchers
+* Any suggestions for our project
+* ...
+
+feel free to raise an issue in [our github repo](https://github.com/kaustpradalab/research-handboook/tree/main?tab=readme-ov-file), or connect us: ``shu.yang@kaust.edu.sa``
