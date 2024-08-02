@@ -4,7 +4,7 @@
 
 ### Zotero and Zotero7
 Info: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
-![zotero.png](zotero.png)
+![zotero.png](zotero.png){ width=400 }
 
 Install here: 
 * For Zotero stable version: <https://www.zotero.org/> 
@@ -29,4 +29,4 @@ download the .xpi file of the plugins
 
 Explore more about zotero: <https://www.zotero.org/support/> 
 
-Tips⚠️: Only install the plugins you need and keep your paper collections clear. 
+Tips⚠️: Only install the plugins you need and keep your paper collections clear. **Don't be a glutton for punishment by attempting to download all the plugins and archive all the papers.**
