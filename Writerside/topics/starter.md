@@ -23,6 +23,10 @@ If you have:
 
 feel free to raise an issue in [our github repo](https://github.com/kaustpradalab/research-handboook/tree/main?tab=readme-ov-file), or connect us: ``shu.yang@kaust.edu.sa``
 
+
+>PRADA Lab is always advocating diversity, equity, and inclusion for every student regardless of genders，races, or nationalities. Every junior students are welcome to our training program. If you are interested in our research areas, please send your cv to `di.wang@kaust.edu.sa`.
+
+
 <seealso>
     <category ref="intro">
         <a href="https://pradalab1.github.io/opening.html">Open positions in PRADA Lab</a>
