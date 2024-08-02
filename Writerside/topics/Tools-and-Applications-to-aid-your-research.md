@@ -84,4 +84,4 @@ Also, we sweetly💗 give a overleaf latex template for (AI) paper writing in th
 * Alibaba Iconfont <https://www.iconfont.cn/>
 * icons8 <https://icons8.com/>
 ![icons8.png](icons8.png){ width="400"}
-* iconsfinder <https://www.iconfinder.com/>
+* iconfinder <https://www.iconfinder.com/>
