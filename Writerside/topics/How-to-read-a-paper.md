@@ -1,4 +1,4 @@
-# Guidelines on How to Read Paper
+# Guidelines on How to Read Papers
 
 ## Find Related Paper
 
