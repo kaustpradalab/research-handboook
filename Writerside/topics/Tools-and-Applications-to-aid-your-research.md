@@ -71,6 +71,12 @@ Also, we sweetly💗 give a overleaf latex template for (AI) paper writing in th
 * Color Scheme Designer <https://www.wauu.net/tools/ps/>
 ![Color Scheme Designer.png](Color Scheme Designer.png){ width="400"}
 
+### Latex
+* SimpleTex<https://simpletex.cn/>
+![simpletex.png](simpletex.png){ width="400"}
+* Latex live<https://www.latexlive.com/home>
+![latexlive.png](latexlive.png){ width="400"}
+
 ### Create Illustrations
 
 #### Drawing boards
@@ -85,3 +91,58 @@ Also, we sweetly💗 give a overleaf latex template for (AI) paper writing in th
 * icons8 <https://icons8.com/>
 ![icons8.png](icons8.png){ width="400"}
 * iconfinder <https://www.iconfinder.com/>
+
+#### Beautiful tables
+* matplotlib <https://matplotlib.org/stable/>
+
+  If you want to create beautiful illustrations for your data or results, it is quite useful to follow a demo in Matplotlib. Learn about the colors and formats, and keep refining them with them until you develop your own 'library'.
+![matplotlib.png](matplotlib.png){ width="400" }
+
+
+⚠️As a beginner, the fastest way to improve is by consistently emulating others' writing and following their use of beautiful illustrations.
+
+## Create Your Research Club🎵
+
+Most junior researchers often feel overwhelmed when it comes to managing their academic projects and notes. In this section, we introduce some useful tools for that.
+
+### Notebook
+
+#### For easy online collaboration and sharing
+
+* 🌟🌟 Notion <https://www.notion.so/>
+  ![notion.png](notion.png){ width="400" }
+  Students can register with their edu email to enjoy free (and lifelong) educational plans. learn more here: <https://www.notion.so/product/notion-for-education>
+  * The best thing about Notion is that you can share your notes publicly without needing to build your own website. (We will provide a guideline on how to create an academic website later.)
+    Here is an excellent blog powered by notion <https://yaofu.notion.site/An-Initial-Exploration-of-Theoretical-Support-for-Language-Model-Data-Engineering-Part-1-Pretraini-dc480d9bf7ff4659afd8c9fb738086eb>, written by @[Yao Fu](https://yaofu.notion.site/)
+  * You can use notion to :
+    * Tracking the progress of your project (you can start with a template <https://www.notion.so/templates>)
+    ![racking.png](racking.png){ width="400" }
+    * organize all your notes
+    ![notionresearchclub.png](notionresearchclub.png){ width="400" }
+    * collaboration
+    ![sharenotion.png](sharenotion.png){ width="400" }
+    * ...
+  * feishu/lark  <https://www.larksuite.com/> zh-cn:<https://www.feishu.cn/> 
+    * ![feishuweb.png](feishuweb.png){ width="400" }
+    * ![feishu.png](feishu.png){ width="400" }
+  
+
+#### Private and localize writing
+The downside of both of the above applications is that they are difficult to synchronize with local files, and if you must have access to local files to feel secure, [obsidian](https://obsidian.md/) is recommended!
+* obsidian
+
+![obsidian.png](obsidian.png){ width="400" }
+
+![plugins and cavas.png](plugins and cavas.png){ width="400" }
+
+You can set up the sync by the plugin -- remotely save
+
+![remotely save.png](remotely save.png){ width="400" }
+
+There are many helpful community plugins, download them in `setting-community plugins`
+![obplugins.png](obplugins.png){ width="400" }
+
+## Other tools
+* Devtoys--little tools for development
+![devtoys.png](devtoys.png){ width="400" }
+![devtoysmac.png](devtoysmac.png){ width="400" }
