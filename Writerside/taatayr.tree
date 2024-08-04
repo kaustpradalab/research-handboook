@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="taatayr"
-                 name="Tools and applications to aid your research"
+                 name="PRADA LAB Research Handbook"
                  start-page="starter.md">
 
     <toc-element topic="starter.md"/>
