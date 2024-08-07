@@ -1,0 +1,6 @@
+# Tips on how to find research ideas
+* As a beginner, avoid directly replicating experiments, as it can waste a lot of time unless you have specific directions and literature from a senior researcher. First, read a few surveys, then broadly read 30-50 related papers from these surveys. Afterward, deep dive into the articles that interest you.
+* When broadly reading papers, focus on the motivation behind the research and the problem it addresses. The methodology is of secondary importance.
+* Deep reading involves more than just the main article. Make sure to read all the related works referenced within the article.
+* Developing the habit of reading papers is crucial and is the first step in research. If you find it difficult to sit through reading papers, you might be more suited for engineering rather than research. In such cases, consider finding a research-oriented partner to collaborate with.
+* A researcher who cannot tell a compelling story cannot become an excellent PhD student. Completing the research is just the first step; writing is the most challenging part.
