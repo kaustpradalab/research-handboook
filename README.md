@@ -31,3 +31,11 @@ feel free to raise an issue in [our github repo](https://github.com/kaustpradala
 - [ ] Motivations for your research
 - [ ] Guidance for the MS/PhD journey
 - [ ] How to find an insight idea
+
+## Author and contributor list
+
+[Lijie Hu](https://sites.google.com/view/lijiehu/homepage)
+[Shu Yang](https://shuyhere.github.io/)
+Liang Liu
+
+
