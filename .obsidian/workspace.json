@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "1e2a2a4e74196428",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccef5ac04e033bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "901bf28818a47cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writerside/topics/starter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e533157b53e6a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d674dc0f828ba16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb04fb2a37497b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "484d29d868b4a6a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6890cefa1d373b05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "826f8bcc127fede5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c246e7c4390637a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4acf0d98e73be46b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writerside/topics/starter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06784b56e144f583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writerside/topics/starter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e791e91f02e37a0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bbc28858e7a594b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writerside/topics/starter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "901bf28818a47cbf",
+  "lastOpenFiles": [
+    "Writerside/topics/Methods_for_Expriment.md",
+    "Writerside/topics/Paper-writing-from-zero.md",
+    "Writerside/topics/How-to-read-a-paper.md",
+    "Untitled.canvas"
+  ]
+}

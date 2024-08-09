@@ -7,7 +7,7 @@ Generally, we use either **Latex** or **Word** for paper writing, as these are t
 
 ### II) Prepare your paper template
 #### 1. Preprint/Arxiv Style Template
-As described in our previous introduction, **overleaf** is an excellent online Latex editing platform, it also offers diverse paper templates.
+As described in our previous introduction, **Overleaf** is an excellent online Latex editing platform, it also offers diverse paper templates.
 
 * [Arxiv & PRIME AI Style Template](https://www.overleaf.com/latex/templates/arxiv-and-prime-ai-style-template/qdnhqytdqzsc)
 * [Style and Template for Preprints](https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/pkzcrhzcdxmc)
@@ -20,7 +20,7 @@ You can directly open those as template in your overleaf.
 In here, we use the author kit from [AAAI (Association for the Advancement of Artificial Intelligence) 2025](https://aaai.org/conference/aaai/aaai-25/) as an example.
 ![aaai.png](aaai.png){ width=400 } 
 
-After download the Author Kit from AAAI website, unzip and import the folder called Latex(it is the subfolder of CameraReady in AAAI author kit, may be different in other conferences author kit) to Overleaf. Now, you got your conference style template in Overleaf.
+After download the Author Kit, unzip it and import the folder Latex(it is the subfolder of CameraReady in AAAI author kit, may be different in other conferences) to Overleaf. Now, you got conference style template in Overleaf.
 ### III) Familiarize with template folder structure
 
 ## Start writing
