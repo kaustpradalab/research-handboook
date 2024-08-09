@@ -2,7 +2,7 @@
 
 ## For Paper/post Reading
 
-### Zotero and Zotero7
+### I) Zotero and Zotero7
 Info: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
 ![zotero.png](zotero.png){ width=400 }
 
@@ -31,7 +31,7 @@ Explore more about zotero: <https://www.zotero.org/support/>
 
 Tips⚠️: Only install the plugins you need and keep your paper collections clear. **Don't be a glutton for punishment by attempting to download all the plugins and archive all the papers.**
 
-### Readwise-read
+### II) Readwise-read
 Save everything to one place, highlight like a pro, and replace several apps with Reader.
 
 website: <https://readwise.io/read>  
@@ -45,7 +45,7 @@ You can use following extension to collect different format elements: <arc://ext
 My favorite feature is that you can save YouTube videos and automatically get subtitle scripts for taking notes whenever you want.
 ![readeryoutube.png](readeryoutube.png){ width=400 }
 
-### AI tools 
+### III) AI tools 
 
 * papers.cool <https://papers.cool/>
 * SCISPACE <https://typeset.io/>
@@ -54,7 +54,7 @@ My favorite feature is that you can save YouTube videos and automatically get su
 
 ## For paper writing
 
-### Overleaf 
+### I) Overleaf 
 
 link: <https://www.overleaf.com/>
 ![overleaf.png](overleaf.png){ width=400 }
@@ -65,25 +65,27 @@ If you are not familiar with LATEX, (and you have enough time), here is a [latex
 
 Also, we sweetly💗 give a overleaf latex template for (AI) paper writing in this project, please check _our paper writing tips_.
 
-### Color scheme
+### II) Color scheme
 * coolors <https://coolors.co/>
 ![coolors.png](coolors.png){ width="400"}
 * Color Scheme Designer <https://www.wauu.net/tools/ps/>
 ![Color Scheme Designer.png](Color Scheme Designer.png){ width="400"}
 
-### Latex
+### III) Latex
 * SimpleTex<https://simpletex.cn/>
 ![simpletex.png](simpletex.png){ width="400"}
 * Latex live<https://www.latexlive.com/home>
 ![latexlive.png](latexlive.png){ width="400"}
 
-### Create Illustrations
+### IV) Create Illustrations
 
 #### Drawing boards
 * drawio <https://www.drawio.com/>
 ![drawio.png](drawio.png){ width="400"}
-* excalidraw https://excalidraw.com/
+* excalidraw <https://excalidraw.com/>
 * ![excalidraw.png](excalidraw.png){ width="400"}
+* Lucidchart <www.lucidchart.com/>
+* ![lucidchart.png](lucidchart.png){ width="400"}
 * any powerpoint applications
 
 #### Icons
@@ -91,6 +93,13 @@ Also, we sweetly💗 give a overleaf latex template for (AI) paper writing in th
 * icons8 <https://icons8.com/>
 ![icons8.png](icons8.png){ width="400"}
 * iconfinder <https://www.iconfinder.com/>
+⚠️ Usually, you can create icons with AI tools(DALL·E, StableDiffusion) that don't involve copyright violations, which is a relatively safer approach.
+
+#### Logos
+* VectorLogoZone <https://www.vectorlogo.zone/>
+![vectorlogozone.png](vectorlogozone.png){ width="400"}
+* Alternatively, you can look for logos from this github Repo <https://github.com/gilbarbara/logos/tree/main>
+
 
 #### Beautiful tables
 * matplotlib <https://matplotlib.org/stable/>
@@ -105,7 +114,7 @@ Also, we sweetly💗 give a overleaf latex template for (AI) paper writing in th
 
 Most junior researchers often feel overwhelmed when it comes to managing their academic projects and notes. In this section, we introduce some useful tools for that.
 
-### Notebook
+### I) Notebook
 
 #### For easy online collaboration and sharing
 
@@ -127,7 +136,7 @@ Most junior researchers often feel overwhelmed when it comes to managing their a
     * ![feishu.png](feishu.png){ width="400" }
   
 
-#### Private and localize writing
+#### For private and localize writing
 The downside of both of the above applications is that they are difficult to synchronize with local files, and if you must have access to local files to feel secure, [obsidian](https://obsidian.md/) is recommended!
 * obsidian
 

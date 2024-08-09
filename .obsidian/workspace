@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "1724fdb12157520c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb69ab22c2e7cd76",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2481e398be0a8945",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d1dad9c2649a3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1542d1aee1bea1c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05d873c6c8a104db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30db70d733761128",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "170fb82b14afcd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3288391685effb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2520198fddeebb92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb92fc55b694435d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e26553f09d2919f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45eb53253412c3ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb69ab22c2e7cd76",
+  "lastOpenFiles": [
+    "Writerside/topics/Paper-writing-from-zero.md",
+    "Writerside/topics/starter.md",
+    "Writerside/topics/Methods_for_Expriment.md",
+    "Writerside/topics/How-to-read-a-paper.md",
+    "Writerside/topics/Tips-about-how-to-find-ideas.md",
+    "Writerside/topics/Tools-and-Applications-to-aid-your-research.md",
+    "README.md",
+    "Writerside/images/aaai.png",
+    "Writerside/images/Color Scheme Designer.png",
+    "Writerside/images/convert_table_to_xml.png"
+  ]
+}
