@@ -34,8 +34,9 @@ feel free to raise an issue in [our github repo](https://github.com/kaustpradala
 
 ## Author and contributor list
 
-[Lijie Hu](https://sites.google.com/view/lijiehu/homepage)
-[Shu Yang](https://shuyhere.github.io/)
-Liang Liu
+[Lijie Hu](https://sites.google.com/view/lijiehu/homepage)  
+[Shu Yang](https://shuyhere.github.io/)  
+Liang Liu  
+[Shenzhe Zhu](https://shenzhezhu.github.io/)
 
 
