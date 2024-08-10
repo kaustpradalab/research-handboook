@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writerside/topics/starter.md",
+                "file": "Writerside/topics/Paper-writing-from-zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writerside/topics/starter.md",
+                "file": "Writerside/topics/Paper-writing-from-zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writerside/topics/starter.md",
+                "file": "Writerside/topics/Paper-writing-from-zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writerside/topics/starter.md"
+                "file": "Writerside/topics/Paper-writing-from-zero.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "901bf28818a47cbf",
+  "active": "9eb04fb2a37497b7",
   "lastOpenFiles": [
-    "Writerside/topics/Methods_for_Expriment.md",
-    "Writerside/topics/Paper-writing-from-zero.md",
+    "Writerside/topics/starter.md",
+    "Writerside/topics/Tips-about-how-to-find-ideas.md",
+    "Writerside/topics/Tools-and-Applications-to-aid-your-research.md",
     "Writerside/topics/How-to-read-a-paper.md",
+    "Writerside/topics/Paper-writing-from-zero.md",
+    "Writerside/topics/Methods_for_Expriment.md",
     "Untitled.canvas"
   ]
 }

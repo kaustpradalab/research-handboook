@@ -3,6 +3,7 @@
 ## Preliminary
 ### I) Choose your writing tools
 Generally, we use either **Latex** or **Word** for paper writing, as these are the only two standards currently supported in the toolkit by mainstream conferences (specific examples will be provided later).
+
 ⚠️ We highly recommend using **Latex** as main writing tool, it's very convenient and there are many templates available! For the later demonstrations, we build them with Latex.
 
 ### II) Prepare your paper template
