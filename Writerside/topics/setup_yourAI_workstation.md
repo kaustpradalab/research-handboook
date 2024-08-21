@@ -37,8 +37,18 @@ Finally you will have ubuntu 24.04LST in your workstation.
 
 ## Install AI research application
 
-link to your machine:
+Establishing an SSH Connection to Your Machine:
 
-Input `ifconfig` in your workstations terminal. And if you get `command not found`. It means no network tool in this station now(and also no ssh tool in most time).
+1. Check for Network Tools:
 
-just input   `sudo apt install ssh` and `sudo apt install ssh net-tools` in the terminal.
+* Open the terminal on your workstation and enter `ifconfig`.
+
+* If you receive a "command not found" error, it indicates that the network tools are not installed, and the SSH tool is likely missing as well.
+
+2. Install SSH and Network Tool
+`sudo apt install ssh` and `sudo apt install ssh net-tools` 
+
+3. Connect via SSH:
+Once installed, you can establish an SSH connection from another device using:
+
+`ssh yourname@ip-of-yourworkstation` you can use `ifconfig`  to check the ip of your workstation
