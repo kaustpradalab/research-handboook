@@ -11,6 +11,9 @@ Link: <https://kaustpradalab.github.io/research-handboook/>
 * Guidance for your MS/PhD journey.
 * ...
 
+## NEWS and UPDATES
+* 🔥update 2024.08.21: New guide about how to set up a AI/deeplearning workstation.
+
 ## Looking forward to your contribution
 If you have:
 * Any questions for research we don't mentioned here
