@@ -37,7 +37,7 @@ Finally you will have ubuntu 24.04LST in your workstation.
 
 ## Install AI research application
 
-Establishing an SSH Connection to Your Machine:
+### Establishing an SSH Connection to Your Machine:
 
 1. Check for Network Tools:
 
@@ -52,3 +52,11 @@ Establishing an SSH Connection to Your Machine:
 Once installed, you can establish an SSH connection from another device using:
 
 `ssh yourname@ip-of-yourworkstation` you can use `ifconfig`  to check the ip of your workstation
+
+### Install miniconda
+
+Document link :<https://docs.anaconda.com/miniconda/miniconda-install/> and <https://docs.anaconda.com/miniconda/>
+
+![miniconda.png](miniconda.png){width="400"}
+
+Then restart your terminal, and you will find miniconda is working.
